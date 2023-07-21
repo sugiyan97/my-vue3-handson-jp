@@ -28,6 +28,10 @@ npm run dev
 npm run build
 ```
 
+### 現在完了部分
+
+コンポーネントにスロットを使用するまで完了
+
 ### 参考
 
 > https://handson.vuejs-jp.org
