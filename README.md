@@ -34,5 +34,5 @@ npm run build
 
 ### 参考
 
-> https://handson.vuejs-jp.org
+> https://handson.vuejs-jp.org  
 > https://github.com/vuejs-jp/handson-vue3
